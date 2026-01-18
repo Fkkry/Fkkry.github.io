@@ -2,9 +2,6 @@
 
 This is my professional e-portfolio built with **HTML**, **Tailwind CSS**, and **JavaScript**. It showcases my journey as a Computer Science student at UTM, featuring my skills, projects, and academic progress.
 
-## 🔗 Live Demo
-You can view the live website here: [https://fkkry.github.io/](https://fkkry.github.io/)
-
 ## 🛠️ Tech Stack
 - **Styling:** Tailwind CSS (via CDN)
 - **Icons:** Lucide Icons
